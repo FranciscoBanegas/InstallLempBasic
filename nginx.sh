@@ -131,8 +131,6 @@ elif [ "$distro" = "2" ]; then
     sudo dnf install -y nginx
     sudo systemctl start nginx
     sudo systemctl enable nginx
-    sudo systemctl start php-fpm 
-    sudo systemctl enable php-fpm
     # *ask
     echo "Perfiles Disponible"
     echo "1 - Nginx Full | Abre el puerto 80 (tráfico web normal, no cifrado) y el puerto 443 (tráfico TLS/SSL cifrado)"
