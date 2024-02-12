@@ -22,4 +22,10 @@ Sigue estos pasos para instalar un entorno LEMP (Linux, Nginx, MySQL, PHP) bási
     ./nginx.sh
     ```
 
+### Notas:
+
+- Asegúrese de tener instalado Git en su sistema antes de continuar.
+- El script `nginx.sh` instalará Nginx, MariaDB y PHP en su sistema.
+- Durante la instalación, el script realizar varias preguntas
+
 ¡Eso es todo! Ahora deberías tener tu entorno LEMP básico listo para usar.
