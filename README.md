@@ -23,7 +23,7 @@ Sigue estos pasos para instalar un entorno LEMP (Linux, Nginx, MySQL, PHP) bási
     ```
 
 
-##Recomendaciones
+## Recomendacion
 
 Una Vez Instalador PHP y PHPMyadmin Se Recomienda Modificar El Archivo de Configuracion  `nano /etc/nginx/nginx.conf` Aqui Un Ejemplo De Una Configuracion Basica:
 
@@ -119,7 +119,7 @@ http {
 }
 
 ```
-#####Importante este archivo es un ejemplo para que pueda darse una idea de que modificar no es una plantilla base (no lo copie y pegue, la configuración varia dependiendo de su necesidad).
+##### Importante este archivo es un ejemplo para que pueda darse una idea de que modificar no es una plantilla base (no lo copie y pegue, la configuración varia dependiendo de su necesidad).
 
 ### Notas:
 
