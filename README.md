@@ -13,7 +13,7 @@ Sigue estos pasos para instalar un entorno LEMP (Linux, Nginx, MySQL, PHP) bási
 2. Otorga permisos al archivo `nginx.sh`:
 
     ```sh
-    chmod 777 nginx.sh
+    chmod 755 nginx.sh
     ```
 
 3. Ejecuta el script `nginx.sh`:
