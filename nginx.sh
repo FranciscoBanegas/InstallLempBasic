@@ -3,7 +3,7 @@
 ############ Info Autor ############ 
 ####################################
 # Name: Francisco Banegas
-# Contact: .carta_filo (discord)
+# Contact: franciscobanegas (discord)
 # Date: 8/02/2024
 echo "############################"
 echo "######### Distro ##########"
